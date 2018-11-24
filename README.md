@@ -6,10 +6,16 @@ In this github, you'll find the entirerty of our project. The files that aren't 
 
 Our presentation can also be seen on this main screen in "To Hibachi or Not to Hibachi.pptx". 
 
-## The Files in Folders
+## What should I expect in each folder?
 
 There are two folders: "Restaurant Competitors" and "yelpProject." 
 
-In "Restaurant Competitors," you'll find all of the code and analysis we had used to analyze our client's figurative direct competitors. THe yelpProject on the other hand is all the code and data we had used to analyze our nearby competitors.
+In "Restaurant Competitors," you'll find all of the code and analysis we had used to analyze our client's figurative direct competitors. The "yelpProject" on the other hand is all the code and data we used to analyze our nearby competitors.
 
 In these folders, you will also find the code we used to create our graphs and collect our data. "yelpProject" used a different way to obtain and organize its data compared to "Restaurant Competitors." The code for the heatmaps can also be found in "Restaurant Competitors." 
+
+## What should I be looking at?
+
+In "Restaurant Competitors," you will find the following files:
+* "Restaurant Competition -Copy1.pynb" - will have all the code relating to the non-heatmap graphs and data. 
+
