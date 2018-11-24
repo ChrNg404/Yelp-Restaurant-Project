@@ -17,5 +17,7 @@ In these folders, you will also find the code we used to create our graphs and c
 ## What should I be looking at?
 
 In "Restaurant Competitors," you will find the following files:
-* "Restaurant Competition -Copy1.pynb" - will have all the code relating to the non-heatmap graphs and data. 
-
+* "Restaurant Competition -Copy1.pynb" - This file will have all the code relating to the non-heatmap graphs and data regarding the restaurant's direct competitors. 
+* "All Restaurant Heatmaps.ipynb." - This file will have all the code relating to the heatmaps showing all of our restaurant's competitors instead of just its direct competitors. 
+* "Competitors Heatmaps.ipynb" - This file will have all the code relating to the heatmaps showing all of our direct competitors. 
+* "Review Count Heatmap Competitors.ipynb" - Shows the heatmaps for our direct competitors, except thew eight is based on review count instead of rating. 
